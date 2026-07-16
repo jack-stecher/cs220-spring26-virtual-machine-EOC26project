@@ -1,3 +1,5 @@
+Project was under private repo, to which I moved it into a public repo, thus explaining 3 commits total.
+
 # EOC-16 Virtual Machine & Assembler
 
 A 16-bit virtual CPU and two-pass assembler, written in Python, that emulates a custom instruction set architecture (ISA) — including register storage, addressable memory, condition-code flags, and a full fetch-decode-execute cycle.
